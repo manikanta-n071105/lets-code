@@ -529,6 +529,12 @@ function Landing() {
                 <a href="https://www.linkedin.com/company/lets-code-forever/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="text-bone/50 hover:text-[#0077b5] transition-colors flex items-center gap-1.5 text-xs font-mono">
                   <Linkedin className="size-4" /> LinkedIn
                 </a>
+                <a href="https://www.instagram.com/lets__code/" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="text-bone/50 hover:text-[#E1306C] transition-colors flex items-center gap-1.5 text-xs font-mono">
+                  <Instagram className="size-4" /> Instagram
+                </a>
+                <a href="https://www.youtube.com/@letscodewithavinash" target="_blank" rel="noopener noreferrer" aria-label="YouTube" className="text-bone/50 hover:text-[#FF0000] transition-colors flex items-center gap-1.5 text-xs font-mono">
+                  <Youtube className="size-4" /> YouTube
+                </a>
                 <a href="https://discord.gg/XRBheB9QF9" target="_blank" rel="noopener noreferrer" aria-label="Discord" className="text-bone/50 hover:text-[#5865F2] transition-colors flex items-center gap-1.5 text-xs font-mono">
                   <Sparkles className="size-4" /> Discord
                 </a>
@@ -961,6 +967,12 @@ function Landing() {
                   </a>
                   <a href="https://www.linkedin.com/company/lets-code-forever/" target="_blank" rel="noopener noreferrer" className="size-9 bg-ink border border-line-2 flex items-center justify-center text-bone/60 hover:bg-[#0077b5] hover:text-white transition-all">
                     <Linkedin className="size-4.5" />
+                  </a>
+                  <a href="https://www.instagram.com/lets__code/" target="_blank" rel="noopener noreferrer" className="size-9 bg-ink border border-line-2 flex items-center justify-center text-bone/60 hover:bg-[#E1306C] hover:text-white transition-all">
+                    <Instagram className="size-4.5" />
+                  </a>
+                  <a href="https://www.youtube.com/@letscodewithavinash" target="_blank" rel="noopener noreferrer" className="size-9 bg-ink border border-line-2 flex items-center justify-center text-bone/60 hover:bg-[#FF0000] hover:text-white transition-all">
+                    <Youtube className="size-4.5" />
                   </a>
                 </div>
                 <a href="/jobs/" className="inline-flex items-center gap-1.5 text-[10px] font-black uppercase tracking-widest text-accent">
